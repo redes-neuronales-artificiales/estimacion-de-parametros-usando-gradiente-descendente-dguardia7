@@ -33,7 +33,7 @@ def pregunta_01():
 def pregunta_02():
 
     # Importe numpy
-    import numpy as pd
+    import numpy as np
 
     x_poly, y = pregunta_01()
 
